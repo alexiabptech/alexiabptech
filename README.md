@@ -1,7 +1,6 @@
 ### Hi there, I'm Alexia Pires 👋 
 
 - 🔭 I’m currently working on python
-- 🌱 I’m currently learning others languages
 - 📫 How to reach me: alexiabp@al.insper.edu.br
 - 😄 Pronouns: she/her
 
